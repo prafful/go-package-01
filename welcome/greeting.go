@@ -2,6 +2,6 @@ package welcome
 
 import "fmt"
 
-func message() {
+func Message() {
 	fmt.Println("Hello from GO Package!")
 }
